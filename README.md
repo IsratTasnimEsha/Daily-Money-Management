@@ -53,3 +53,11 @@ https://github.com/IsratTasnimEsha/Daily-Money-Management/assets/88322977/66a43e
 ## Contributing
 
 Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
+
+## Author
+
+Israt Tasnim Esha,
+
+Dept. Of Computer Science And Engineering,
+
+Khulna University Of Engineering And Technology.
