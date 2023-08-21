@@ -56,8 +56,6 @@ Contributions are welcome! If you find any bugs or want to add new features, fee
 
 ## Author
 
-Israt Tasnim Esha,
-
-Dept. Of Computer Science And Engineering,
-
-Khulna University Of Engineering And Technology.
+**Israt Tasnim Esha**  
+*Department of Computer Science and Engineering*  
+*Khulna University of Engineering and Technology*
