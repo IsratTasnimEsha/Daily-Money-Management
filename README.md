@@ -1,5 +1,11 @@
 # ManageIt - Daily Money Management App
 
+<br>
+<p align="center">
+  <img src="https://github.com/IsratTasnimEsha/Daily-Money-Management-App/assets/88322977/c448d7cd-7035-4608-b121-6074ca6aad0a" alt="Logo" width="13%">
+</p>
+<br>
+
 ManageIt is a simple Android app that helps you manage your daily expenses and savings. With this app, you can track your savings and spending, view your total savings, total spendings, and remaining balance.
 
 ## Features
