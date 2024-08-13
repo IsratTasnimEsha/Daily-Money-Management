@@ -57,5 +57,4 @@ Contributions are welcome! If you find any bugs or want to add new features, fee
 ## Author
 
 **Israt Tasnim Esha**  
-*Department of Computer Science and Engineering*  
-*Khulna University of Engineering and Technology*
+**Year:** 2022
